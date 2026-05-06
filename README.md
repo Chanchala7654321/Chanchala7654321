@@ -1,15 +1,5 @@
-💫 Chanchala Sidar | Front-End Developer
-Building clean, responsive, and user-centric web experiences.
-
-🚀 Current Focus: Masterng React and advanced JavaScript (ES6+).
-
-🛠 Tech Stack: HTML5, CSS3 (Flexbox/Grid), Tailwind, React, & Git.
-
-🌟 Highlights: Developed an AI Chatbot and Task Manager; passionate about team leadership and data organization.
-
-📫 Let’s Connect: chanchalasidar24@navgurukul.org
-
-Fun Fact: I’m a VS Code enthusiast who actually enjoys organizing complex data in Google Sheets!
+# 💫 About Me:
+👋 **Hi there! I'm Chanchala Sidar**<br><br>I am an aspiring **Front-End Web Developer** passionate about building responsive and user-friendly websites. I enjoy using structured logic and teamwork to create clean, interactive digital experiences.<br><br>🔭 **Currently Learning:**<br>Modern web frameworks like React, along with improving my skills in JavaScript (ES6+) and Responsive Design.<br><br>💬 **Ask Me About:**<br>HTML5, CSS3 (Flexbox & Grid), and my projects like an AI Chatbot and Task Manager apps.<br><br>⚡ **Fun Fact:**<br>I’m a proactive leader who enjoys coordinating teams. When I’m not coding, I like organizing data in Google Sheets and exploring new tools in VS Code.<br><br>🛠 **Tech Stack:**<br>**Languages:** JavaScript (ES6+), HTML5, CSS3<br>**Libraries/Frameworks:** React, Bootstrap, Tailwind CSS<br>**Tools:** Git, GitHub, Browser DevTools<br><br>📫 **Contact Me:**<br>[chanchalasidar24@navgurukul.org](mailto:chanchalasidar24@navgurukul.org)<br>
 
 
 ## 🌐 Socials:
